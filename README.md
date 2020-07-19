@@ -1,2 +1,2 @@
-# My_study
-Manage my studying exercise codes and documents
+# My_Python
+Manage my python studying exercise codes and documents
